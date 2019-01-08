@@ -1,0 +1,4 @@
+13:40:56.771 [main] INFO  resources.BaseClass - Login
+13:41:04.503 [main] INFO  resources.BaseClass - Login
+13:41:04.747 [main] INFO  resources.BaseClass - Inside Take Screenshot Block
+13:41:08.105 [main] INFO  resources.BaseClass - Driver is closed

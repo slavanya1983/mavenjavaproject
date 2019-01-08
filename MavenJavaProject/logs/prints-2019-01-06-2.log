@@ -1,0 +1,8 @@
+10:43:41.033 [main] INFO  resources.BaseClass - Driver is closed
+19:34:21.698 [main] INFO  resources.BaseClass - Driver is initialized
+19:34:36.202 [main] INFO  resources.BaseClass - WebApplication is open for testing
+19:34:39.524 [main] INFO  resources.BaseClass - Pop-up closed
+19:34:55.522 [main] INFO  resources.BaseClass - Login
+19:35:04.077 [main] INFO  resources.BaseClass - Login
+19:35:16.913 [main] INFO  resources.BaseClass - Login
+19:35:19.114 [main] INFO  resources.BaseClass - Driver is closed

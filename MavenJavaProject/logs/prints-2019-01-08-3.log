@@ -1,0 +1,8 @@
+11:59:46.194 [main] INFO  resources.BaseClass - Login
+11:59:55.604 [main] INFO  resources.BaseClass - Login
+11:59:55.905 [main] INFO  resources.BaseClass - Inside Take Screenshot Block
+11:59:57.475 [main] INFO  resources.BaseClass - Driver is closed
+12:21:31.049 [main] INFO  resources.BaseClass - Driver is initialized
+12:21:40.133 [main] INFO  resources.BaseClass - WebApplication is open for testing
+12:21:44.944 [main] INFO  resources.BaseClass - Pop-up closed
+12:21:58.235 [main] INFO  resources.BaseClass - Login

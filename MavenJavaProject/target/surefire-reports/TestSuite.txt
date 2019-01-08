@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 48.081 s <<< FAILURE! - in TestSuite
+validateText(NewMaven.qaClickAcademy)  Time elapsed: 1.367 s  <<< FAILURE!
+java.lang.AssertionError: expected [AN ACADEMY TO LEARN EVERYTHING ABOUT TESING] but found [AN ACADEMY TO LEARN EVERYTHING ABOUT TESTING]
+	at NewMaven.qaClickAcademy.validateText(qaClickAcademy.java:44)
+

@@ -1,0 +1,8 @@
+10:40:19.730 [main] INFO  resources.BaseClass - Driver is initialized
+10:42:23.596 [main] INFO  resources.BaseClass - Driver is initialized
+10:42:58.981 [main] INFO  resources.BaseClass - WebApplication is open for testing
+10:42:59.477 [main] INFO  resources.BaseClass - Pop-up closed
+10:42:59.664 [main] INFO  resources.BaseClass - Assert Passed
+10:43:15.658 [main] INFO  resources.BaseClass - Login
+10:43:23.555 [main] INFO  resources.BaseClass - Login
+10:43:38.568 [main] INFO  resources.BaseClass - Login
